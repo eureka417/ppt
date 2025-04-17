@@ -1,0 +1,31 @@
+.botones {
+    margin-top: 50px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+#consola {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    /*border: 5px solid black;
+    height: 500px;
+
+*/}
+
+#resultado {
+    margin-top: 50px;
+    justify-content: center;
+    display: flex;
+    /*border: 5px solid black;
+    height: 500px;
+
+*/}
+
+#ronda {
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 50px;
+    font-size:50px;
+}
